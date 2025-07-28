@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar buat web</title>
+</head>
+<body>
+
+<h1>Ayo lihat web SMAN 5 Yogyakarta</h1>
+<a href="https://sman5yk.sch.id/">Ini link ke web Puspanegara</a>
+<h2>Ayo</h2>
+<h3>Belajar</h3>
+<h4>Di SMA 5 Yogyakarta</h4>
+<img src="img_girl.jpg" alt="Girl in a jacket">
+<br>
+<br>
+<br>
+&#128508;
+<p style="font-size:100px">&#128018;</p>
+<img src="https://bioearthworm.wordpress.com/wp-content/uploads/2018/08/img-20180815-wa0044.jpg" alt="jamur">
+<tagname style="property:value;">
+<body style="background-color:pink;">
+
+<p>I am normal</p>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
+
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+<pre>This is a paragraph.</pre>
+
+</body>
+<body>
+
+<h1 style="background-color:powderblue;">Powderblue</h1>
+<p style="background-color:tomato;">Tomato.</p>
+
+<p>This is a paragraph.</p>
+<p style="color:blue;">This is a paragraph.</p>
+
+</html>
